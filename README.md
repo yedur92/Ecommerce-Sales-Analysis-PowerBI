@@ -34,13 +34,12 @@ The Home page provides an overall summary of e-commerce performance.
 
 ### Bookmarks
 
-Three interactive bookmarks provide quick access to different sales views:
+Three interactive bookmarks provide quick access to different sales views.
 
-| Bookmark | Purpose |
-|---|---|
-| 📈 **Highest Sales** | Displays the high-performing sales view. |
-| 📉 **Lowest Sales** | Displays the low-performing sales view. |
-| 📊 **All Sales** | Returns to the overall sales view. |
+| Highest Sales | Lowest Sales | All Sales |
+|:---:|:---:|:---:|
+| ![Highest Sales](assets/highest-sales.png) | ![Lowest Sales](assets/lowest-sales.png) | ![All Sales](assets/all-sales.png) |
+| Displays the high-performing sales view. | Displays the low-performing sales view. | Returns to the overall sales view. |
 
 ### 2. Sales & Profit Analysis
 
